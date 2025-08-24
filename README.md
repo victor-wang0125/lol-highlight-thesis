@@ -69,14 +69,25 @@
 <p align="center">
   <img src="docs/figures/語句型態比較.png" width="600">
   <br>
-  <b>語句型態比較圖</b>
+  <b>語句型態比較表</b>
 </p>
 
 - **弱監督預訓練**：  
-  - 顯著提升高門檻指標（如 R1@0.7、mAP@0.75）。  
+  - 顯著提升高門檻指標（如 R1@0.7、mAP@0.75）。
+<p align="center">
+  <img src="docs/figures/弱監督預訓練比較表.png" width="600">
+  <br>
+  <b>弱監督預訓練比較表</b>
+</p>
+
 - **模態消融實驗**：  
   - 無預訓練：移除 CLIP 反而能提升 MR 整體表現。  
-  - 有預訓練：BLIP 對 MR 任務具關鍵貢獻。  
+  - 有預訓練：BLIP 對 MR 任務具關鍵貢獻。
+<p align="center">
+  <img src="docs/figures/消融實驗比較.png" width="600">
+  <br>
+  <b>消融實驗比較表</b>
+</p>
 
 ---
 
