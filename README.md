@@ -44,7 +44,7 @@
 <p align="center">
   <img src="docs/figures/研究架構圖.png" width="800">
   <br>
-  <em>研究設計圖</em>
+  <em>研究架構圖</em>
 </p>
 - **資料來源**：2023 年 LEC 春季賽，共 46 場比賽影片。  
 - **資料處理**：
