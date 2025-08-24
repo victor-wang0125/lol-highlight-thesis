@@ -6,6 +6,10 @@
 > **Affiliation**: 國立高雄科技大學 智慧商務系  
 > **Year**: 2025  
 
+## 🔗 相關連結
+- [資料集與標註流程 Repository](https://github.com/victor-wang0125/lol-highlight-dataset)
+- [程式碼與實驗框架 Repository](https://github.com/victor-wang0125/lol-highlight-codebase)
+
 ---
 
 ## 📖 研究背景
@@ -80,4 +84,5 @@
 
 ---
 
-📎 論文全文與簡報請參見 `docs/` 資料夾。  
+📎 論文全文請參見 `docs/` 資料夾。  
+
