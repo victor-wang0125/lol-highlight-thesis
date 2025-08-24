@@ -35,13 +35,17 @@
 ---
 
 ## 🔬 研究方法
-![研究流程圖](docs/figures/研究流程圖.png)
+<p align="center">
+  <img src="docs/figures/研究流程圖.png" width="600">
+  <br>
+  <em>研究流程圖</em>
+</p>
 
-**研究流程圖**
-
-![研究架構圖](docs/figures/研究架構圖.png)
-
-**研究架構圖**
+<p align="center">
+  <img src="docs/figures/研究架構圖.png" width="800">
+  <br>
+  <em>研究設計圖</em>
+</p>
 - **資料來源**：2023 年 LEC 春季賽，共 46 場比賽影片。  
 - **資料處理**：
   - 影片切割（10 秒／150 秒片段）。  
